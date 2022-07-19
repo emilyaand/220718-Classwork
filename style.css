@@ -1,0 +1,21 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.mytextd {
+    border: 1px; solid ;
+    margin: 50px 20px;
+}
+.mytext2d {
+    width: fit-content;
+}
+.mytext, .mytext2, .measure {
+    width: 300px;
+    height: 50px;
+}
+.mytext{
+    background-color: aqua;
+}
+.mytext2 {
+    background-color: blueviolet;
+}
